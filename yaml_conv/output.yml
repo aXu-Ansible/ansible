@@ -1,0 +1,14 @@
+---
+
+Server:
+  Server1: 
+    Server2:
+      - 80
+      - 8080
+    Server4:
+      - 443
+  Server2:
+    Server3:
+      - 8080
+  Server3:
+  Server4:

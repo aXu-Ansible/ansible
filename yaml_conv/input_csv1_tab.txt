@@ -1,0 +1,7 @@
+Server	 Check_Server	 Firewall_Port
+Server1	Server2	80
+            	Server2	8080
+            	Server4	443
+Server2	Server3	8080
+Server3	     	
+Server4	     	

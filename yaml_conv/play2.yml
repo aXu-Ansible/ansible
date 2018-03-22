@@ -1,0 +1,8 @@
+- hosts: localhost
+  tasks:
+   - name:  xx1 test
+     xx7: file1='./data3.csv'
+     register: result
+
+
+   - debug: var=result

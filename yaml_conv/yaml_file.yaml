@@ -1,0 +1,24 @@
+- id: 0
+  title_english: Server1
+  title_russian: Server2
+- id: 1
+  title_english: ''
+  title_russian: Server2
+- id: 2
+  title_english: ''
+  title_russian: server8
+- id: 3
+  title_english: Sever2
+  title_russian: Server3
+- id: 4
+  title_english: ''
+  title_russian: Server5
+- id: 5
+  title_english: server3
+  title_russian: 'Server6 '
+- id: 6
+  title_english: ''
+  title_russian: Server9
+- id: 7
+  title_english: Server4
+  title_russian: Server7

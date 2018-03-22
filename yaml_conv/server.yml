@@ -1,0 +1,26 @@
+---
+servers:
+ - server1: Server1
+   server2: Server2
+   port: 80
+ - server1: Server1
+   server2: Server2
+   port: 9999
+ - server1: Server1
+   server2: server8
+   port: 8443
+ - server1: Server2
+   server2: Server3
+   port: 8080
+ - server1: Server2
+   server2: Server5
+   port: 9999
+ - server1: server3
+   server2: Server6 
+   port: 8443
+ - server1: server3
+   server2: Server9
+   port: 8888
+ - server1: Server4
+   server2: Server7
+   port: 8443

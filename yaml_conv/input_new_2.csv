@@ -1,0 +1,15 @@
+Server, Check-Server, Firewall-Port
+Server1,,
+,Server2,80
+            ,Server2,8080
+            ,Server4,443
+,,
+Server2,,
+,Server3,8080
+,Server5,9999
+,,
+Server3,     ,
+,Server6 ,8443
+,,
+Server4,     ,
+,Server7,8443
